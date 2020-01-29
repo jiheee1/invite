@@ -85,7 +85,7 @@ figure{width:100%; height:30px; background-position: 0px 0px;}
 #main05{background: url('../img/main08.jpg'); background-size: 100% auto }
 
 
-article{clear:both;width:800px;height:600px;margin:0 auto; margin-top:44px;margin-bottom: 0px;}
+article{clear:both;width:800px;height:800px;margin:0 auto; margin-top:44px;margin-bottom: 0px;}
 
 article p,article h2, article h4, article ul{padding-left:calc(200px + 1em);padding-right:1em;padding-top: 1em}
 
